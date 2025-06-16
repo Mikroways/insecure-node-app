@@ -22,3 +22,4 @@ app.get('/secure-data', (req, res) => {
 
 module.exports = app;
 
+const ANOTHER_KEY = 'sk_test_123fake456';
